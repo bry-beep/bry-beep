@@ -1,2 +1,2 @@
-[![Banner for bry-beep](https://github.com/bry-beep/bry-beep/blob/main/assets/sailing_vid.mp4)]
+[![Banner for bry-beep](https://giphy.com/clips/nature-drone-marthas-vineyard-1tJ0Zqu7nfaGv1Tflz)]
 <h1 align='center'>Hello!</h1>
